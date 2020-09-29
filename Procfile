@@ -1,1 +1,0 @@
-worker: python miejski.py
